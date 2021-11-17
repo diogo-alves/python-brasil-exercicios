@@ -1,0 +1,1 @@
+# Resoluções de [exercícios](https://wiki.python.org.br/ListaDeExercicios) da Python Brasil
